@@ -9,7 +9,7 @@ body{
 	font-family: "microsoft yahei",arial;
 	font-size:14px;
 	color:#fff;
-	background: url(../img/indexbg.jpg) no-repeat center;
+	background: url(https://raw.githubusercontent.com/THA1688/tha16888/main/indexbg.jpg) no-repeat center;
 	background-size:cover;
 	text-align: center;
 	position: relative;
@@ -100,14 +100,14 @@ a,a:hover,a:link,a:active,a:visited{text-decoration: none;color:#fff;}
 
 /*弹窗*/
 .outshadow{width:100%;height:100%;position:absolute;z-index:50;display:none;}
-.popup{position: absolute;top:50%;left:50%;width:500px;height:200px;background:url(../img/popup.png) no-repeat;background-size:100% 100%;-moz-background-size:100% 100%;margin-left: -250px;margin-top: -100px;z-index: 100;}
+.popup{position: absolute;top:50%;left:50%;width:500px;height:200px;background:url(https://raw.githubusercontent.com/THA1688/tha16888/main/popup.png) no-repeat;background-size:100% 100%;-moz-background-size:100% 100%;margin-left: -250px;margin-top: -100px;z-index: 100;}
 .popup h3{font-size:2em;padding-top: 5%;letter-spacing: 5px;}
 .popup .popbt{text-align: center;width: 35%;display: inline-block;}
-.popup .popbt .pop_btn{width:133px;background:url(../img/btn1.png) no-repeat;background-size:100% 100%;-moz-background-size:100% 100%;display:inline-block;font-size:2em;letter-spacing: 7px;text-align:center;padding: 3% 0;margin-top: 25%;margin-bottom: 25%;}
-.popup .popbt .give_up{background:url(../img/btn2.png) no-repeat;background-size:100% 100%;-moz-background-size:100% 100%;}
+.popup .popbt .pop_btn{width:133px;background:url(https://raw.githubusercontent.com/THA1688/tha16888/main/btn1.png) no-repeat;background-size:100% 100%;-moz-background-size:100% 100%;display:inline-block;font-size:2em;letter-spacing: 7px;text-align:center;padding: 3% 0;margin-top: 25%;margin-bottom: 25%;}
+.popup .popbt .give_up{background:url(https://raw.githubusercontent.com/THA1688/tha16888/main/btn2.png) no-repeat;background-size:100% 100%;-moz-background-size:100% 100%;}
 
 /*VS*/
-.vs{width:160px;height:215px;background: url(../img/VS.png) no-repeat;position: absolute;top:50%;left:50%;margin-top:-80px;margin-left: -107px;z-index:1;}
+.vs{width:160px;height:215px;background: url(https://raw.githubusercontent.com/THA1688/tha16888/main/VS.png) no-repeat;position: absolute;top:50%;left:50%;margin-top:-80px;margin-left: -107px;z-index:1;}
 
 .skw-page__skewed:hover,.skw-page__skewed:hover{ background: #000; opacity: 0.5;}
 
