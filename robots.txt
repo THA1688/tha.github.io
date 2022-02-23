@@ -1,0 +1,5 @@
+# allow google
+User-agent: *
+Allow: /
+
+Sitemap: https://tha1688.github.io/tha16888/sitemap.xml
